@@ -8,13 +8,12 @@
 ### 2. Getwaves
 
 → It's a waves generator that helps to make different waves and allows you to copy and download the SVG. <br>
-👉 [getwaves.io](https://getwaves.io)
-<hr>
+👉 [getwaves.io](https://getwaves.io) <br>
 
 ### 3. Neumorphism
 
 → It's a Neumorphism generator in which you can experiment and get CSS code.<br>
-👉 [neumorphism.io](https://neumorphism.io) <hr>
+👉 [neumorphism.io](https://neumorphism.io) <br>
 
 ### 4. Glassmorphism
 
