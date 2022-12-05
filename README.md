@@ -3,17 +3,17 @@
 ### 1. Blob maker
 
 → The blob maker tool helps you create different unusual shapes and allows you to copy and download the SVG. <br>
-👉 [www.blobmaker.app/](https://www.blobmaker.app/)
+👉 [blobmaker.app](https://www.blobmaker.app/)
 
 ### 2. Getwaves
 
 → It's a waves generator that helps to make different waves and allows you to copy and download the SVG. <br>
-👉 [getwaves.io](https://getwaves.io) <br>
+👉 [getwaves.io](https://getwaves.io) 
 
 ### 3. Neumorphism
 
 → It's a Neumorphism generator in which you can experiment and get CSS code.<br>
-👉 [neumorphism.io](https://neumorphism.io) <br>
+👉 [neumorphism.io](https://neumorphism.io) 
 
 ### 4. Glassmorphism
 
@@ -22,12 +22,12 @@
 
 ### 5. CSS Glow Generator
 
-→ A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website.
+→ A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website.<br>
 👉 [lnkd.in/dRgitBbK](https://lnkd.in/dRgitBbK)
 
 ### 6. Cubic-bezier
 
-→ Cubic-bezier is a tool to Preview & compare cubic-bezier easings as you customize &, and it lets you copy it.
+→ Cubic-bezier is a tool to Preview & compare cubic-bezier easings as you customize &, and it lets you copy it.<br>
 👉 [cubic-bezier.com](https://cubic-bezier.com )
 
 ### 7. css3 generator
