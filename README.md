@@ -1,5 +1,4 @@
-## Here are 10 CSS generators to save you 10+ hrs every week:
-<br>
+## Here are 10 CSS generators to save you 10+ hrs every week:<br>
 
 ### 1. Blob maker
 
